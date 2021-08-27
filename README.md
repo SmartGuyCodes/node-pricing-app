@@ -78,3 +78,6 @@ In most cases, you will find yourself listening to events and handling them with
 
 Check index.js for more details
 
+Step 6 - Work with the File System
+
+Many APIs in Node are callback based.
