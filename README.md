@@ -80,4 +80,8 @@ Check index.js for more details
 
 Step 6 - Work with the File System
 
-Many APIs in Node are callback based.
+Many APIs in Node are callback based. Check index.js for more details
+
+Step 7 - Modules and NPM
+
+A module is just a file that exports its code.
