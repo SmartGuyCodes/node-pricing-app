@@ -85,3 +85,28 @@ Many APIs in Node are callback based. Check index.js for more details
 Step 7 - Modules and NPM
 
 A module is just a file that exports its code.
+
+cool.js
+
+module.exports = {
+    hello: 'world'
+}
+
+Another file can use this code by importing it.
+
+const { hello } = require('./cool.js');
+
+console.log(hello);
+// world
+
+Install remote modules by initializing an NPM project.
+
+npm init -y
+
+npm install express
+
+Build a Full Stack Wep App
+
+Use Express to create an HTTP endpoint
+
+Create an HTML file. 

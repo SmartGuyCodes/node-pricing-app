@@ -1,12 +1,23 @@
 {
   "name": "pricing-node",
   "version": "1.0.0",
-  "description": "",
+  "description": "Hi SmartGuyCodes,",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SmartGuyCodes/node-pricing-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SmartGuyCodes/node-pricing-app/issues"
+  },
+  "homepage": "https://github.com/SmartGuyCodes/node-pricing-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
