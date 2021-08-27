@@ -59,3 +59,22 @@ Windows
 NVM is not available on Windows, but there is a solid alternative with nvm-windows. It provides an installer than you can download from the repo. 
 
 Once installed you will have access commands similar to those above.
+
+Step 3: Hello World
+Create a JavaScript file. Check the index.js for more details
+
+Rune it with node .  in the terminal
+
+Step 4: Builtins & Globals
+
+Node has several global variables that you should know about:
+
+global use it to save global variable throughout the app. Similar to window in the browser.
+process interact with the current process to information like the OS platform or environment variables.
+
+Step 5 - Events & Emitters
+
+In most cases, you will find yourself listening to events and handling them with callbacks, but you can create your own events with an EventEmitter.
+
+Check index.js for more details
+
